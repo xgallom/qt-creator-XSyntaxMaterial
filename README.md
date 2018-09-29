@@ -2,8 +2,11 @@
 A dark colored scheme for QtCreator that I use, works great with the default Flat Dark theme.
 Loosely based on [Atom Material Syntax Theme](https://atom.io/themes/atom-material-syntax) color palette and the defaults of Qt Creator Dark color scheme.
 
+![XSyntaxMaterial Look](screenshot.png)
+
 ## Note
-Currently uses Material colors or their slight modifications for all C++ syntax, the QML syntax and the Diff editor syntax are left as defaults.
+It uses Material colors or their slight modifications for all C++ syntax, but they were modified to have an overall colder feel (the red and pink were too intrusive), now the kinda look like Visual Studio colors.
+The QML syntax and the Diff editor syntax are left as defaults.
 
 ## Installation
 
