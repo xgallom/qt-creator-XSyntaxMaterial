@@ -1,11 +1,11 @@
 # QtCreator XSyntaxMaterial Color Scheme
 A dark colored scheme for QtCreator that I use, works great with the default Flat Dark theme.
-Loosely based on [Atom Material Syntax Theme](https://atom.io/themes/atom-material-syntax) and the defaults of Qt Creator Dark color scheme.
+Loosely based on [Atom Material Syntax Theme](https://atom.io/themes/atom-material-syntax) color palette and the defaults of Qt Creator Dark color scheme.
 
 ## Note
-Currently uses Material colors or their slight modifications for all C++ syntax, the QML and Diff editor are left as defaults.
+Currently uses Material colors or their slight modifications for all C++ syntax, the QML syntax and the Diff editor syntax are left as defaults.
 
-## Install
+## Installation
 - **Clone or download this repository**
 
 - **Copy the color scheme to QtCreators styles directory**
@@ -37,8 +37,8 @@ rm -r qt-creator-XSyntaxMaterial
 
 ## Features
 - Default background colors of **Flat Dark** theme - Fits in with it perfectly!
-- Modern and well readable look of [Atom Material Syntax Theme](https://atom.io/themes/atom-material-syntax) with few modifications to keep the code all and well in the darker QtCreator theme
-- Different color of **Types**, **Primitive Types**, **Globals**, and **Locals and Functions** (found having a separate color for **Functions** and **Local Variables** quite intrusive)
+- Modern and readable look of [Atom Material Syntax Theme](https://atom.io/themes/atom-material-syntax) with few modifications to keep the code clear in the darker QtCreator theme
+- Different colors for **Types**, **Primitive Types**, **Global Variables**, **Local Variables** and **Functions**
 
 ## Contributing
 If I never get to finish the QML and Diff highlights, and you want to do your part, just hit me with a pull request and if it's good then it's good!
