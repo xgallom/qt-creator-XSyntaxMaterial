@@ -3,8 +3,10 @@
   <style name="Text" foreground="#b2ccd6" background="#2e2f30"/>
   <style name="Link" foreground="#d6c540"/>
   <style name="Selection" background="#3d515b"/>
-  <style name="LineNumber" foreground="#bec0c2" background="#404244"/>
+  <style name="LineNumber" foreground="#bec0c2"/>
   <style name="SearchResult" background="#684e00"/>
+  <style name="SearchResultAlt1" foreground="#aaaaff"/>
+  <style name="SearchResultAlt2" foreground="#ffaaaa"/>
   <style name="SearchScope" background="#8a602c"/>
   <style name="Parentheses" background="#3d515b"/>
   <style name="ParenthesesMismatch" background="#ff6aad"/>
@@ -17,7 +19,9 @@
   <style name="Number" foreground="#f78c6a"/>
   <style name="String" foreground="#96e896"/>
   <style name="Type" foreground="#82aaff"/>
+  <style name="Namespace" foreground="#82aaff"/>
   <style name="Local" foreground="#eeffff"/>
+  <style name="Parameter" foreground="#eeffff"/>
   <style name="Global" foreground="#15aa99"/>
   <style name="Field" foreground="#7dddbd"/>
   <style name="Static" foreground="#82aaff" italic="true"/>
@@ -26,7 +30,8 @@
   <style name="Keyword" foreground="#c792ea"/>
   <style name="PrimitiveType" foreground="#7986cb"/>
   <style name="Operator"/>
-  <style name="Overloaded Operator" foreground="#73d1c8"/>
+  <style name="Overloaded Operator"/>
+  <style name="Punctuation"/>
   <style name="Preprocessor" foreground="#ffe082"/>
   <style name="Label" foreground="#73d1c8"/>
   <style name="Comment" foreground="#9fb6be" italic="true"/>
@@ -56,6 +61,11 @@
   <style name="DiffDestLine" background="#588a2c"/>
   <style name="DiffDestChar" foreground="#2e2f30" background="#7cc33e"/>
   <style name="LogChangeLine" foreground="#d65645"/>
+  <style name="LogAuthorName" foreground="#ceffe5"/>
+  <style name="LogCommitDate" foreground="#00ff00"/>
+  <style name="LogCommitHash" foreground="#ff0000"/>
+  <style name="LogCommitSubject" foreground="#d6cf9a"/>
+  <style name="LogDecoration" foreground="#ff00ff"/>
   <style name="Warning" underlineColor="#d6c545" underlineStyle="SingleUnderline"/>
   <style name="WarningContext" underlineColor="#d6c545" underlineStyle="DotLine"/>
   <style name="Error" underlineColor="#d65645" underlineStyle="SingleUnderline"/>
@@ -63,4 +73,5 @@
   <style name="Declaration"/>
   <style name="FunctionDefinition"/>
   <style name="OutputArgument" italic="true"/>
+  <style name="StaticMember" foreground="#15aa99"/>
 </style-scheme>
